@@ -1,0 +1,20 @@
+{
+  "name": "mol-utils",
+  "version": "0.0.0",
+  "description": "",
+  "authors": [
+    "Marco Massarotto <massa84@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MailOnline/mol-utils#readme",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MailOnline/mol-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MailOnline/mol-utils/issues"
+  }
+}
